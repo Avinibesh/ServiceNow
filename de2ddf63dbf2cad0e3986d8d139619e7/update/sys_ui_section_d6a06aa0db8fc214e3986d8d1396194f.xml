@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="d6a06aa0db8fc214e3986d8d1396194f" sys_domain="global" table="x_wopa_inbound_act_u_inbound_mapping" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 08:34:56</sys_created_on>
+            <sys_id>5ea06664db8fc214e3986d8d13961980</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 08:34:56</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 08:34:56</sys_created_on>
+            <sys_id>56a06664db8fc214e3986d8d13961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 08:34:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 08:34:56</sys_created_on>
+            <sys_id>5aa06664db8fc214e3986d8d13961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 08:34:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 08:34:56</sys_created_on>
+            <sys_id>5ea06664db8fc214e3986d8d13961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 08:34:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 08:34:56</sys_created_on>
+            <sys_id>52a06664db8fc214e3986d8d13961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 08:34:56</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>5</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 08:35:55</sys_created_on>
+            <sys_id>b0e0ee24db8fc214e3986d8d13961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 08:35:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 08:40:26</sys_created_on>
+            <sys_id>3ee12e64db8fc214e3986d8d139619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 08:40:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>from</element>
+            <position>7</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 09:05:58</sys_created_on>
+            <sys_id>74c76aa4dbcfc214e3986d8d139619e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 09:05:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to</element>
+            <position>8</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 09:06:33</sys_created_on>
+            <sys_id>1de76ea4dbcfc214e3986d8d139619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 09:06:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subject</element>
+            <position>9</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 09:07:22</sys_created_on>
+            <sys_id>1d18a2e4dbcfc214e3986d8d1396190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 09:07:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>map_body_to_field</element>
+            <position>10</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 10:45:45</sys_created_on>
+            <sys_id>aa9ebae8db430614e3986d8d139619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:45:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>record_type</element>
+            <position>11</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 10:46:16</sys_created_on>
+            <sys_id>0ebef62cdb430614e3986d8d139619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:46:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>12</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 10:54:37</sys_created_on>
+            <sys_id>94a0cb6cdb430614e3986d8d13961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:54:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>13</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 10:56:11</sys_created_on>
+            <sys_id>5bf047ecdb430614e3986d8d13961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:56:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service</element>
+            <position>14</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 11:07:53</sys_created_on>
+            <sys_id>f2a34be4db830614e3986d8d1396198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 11:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>service_offering</element>
+            <position>15</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 11:10:02</sys_created_on>
+            <sys_id>9a240fe0db830614e3986d8d13961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 11:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>16</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 12:09:22</sys_created_on>
+            <sys_id>dbb15f60db070614e3986d8d139619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 12:09:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>17</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 12:15:32</sys_created_on>
+            <sys_id>61231be0db070614e3986d8d139619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 12:15:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>configuration_item</element>
+            <position>18</position>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 12:23:15</sys_created_on>
+            <sys_id>b6e41f28db070614e3986d8d1396195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_wopa_inbound_act_u_inbound_mapping" sys_domain="global" view="Default view">d6a06aa0db8fc214e3986d8d1396194f</sys_ui_section>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 12:23:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_wopa_inbound_act_u_inbound_mapping</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 08:34:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>d6a06aa0db8fc214e3986d8d1396194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_wopa_inbound_act_u_inbound_mapping</sys_name>
+            <sys_overrides display_value="">global</sys_overrides>
+            <sys_package display_value="Inbound Actions" source="x_wopa_inbound_act">de2ddf63dbf2cad0e3986d8d139619e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Inbound Actions">de2ddf63dbf2cad0e3986d8d139619e7</sys_scope>
+            <sys_update_name>sys_ui_section_d6a06aa0db8fc214e3986d8d1396194f</sys_update_name>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 08:34:56</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>avinibesh.Dey</sys_created_by>
+        <sys_created_on>2024-06-21 10:31:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3d9e1fe7dbf2cad0e3986d8d139619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_wopa_inbound_act_u_inbound_mapping.x_wopa_inbound_act.inbound_field_mapping_user</sys_name>
+        <sys_package display_value="Inbound Actions" source="x_wopa_inbound_act">de2ddf63dbf2cad0e3986d8d139619e7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inbound Actions">de2ddf63dbf2cad0e3986d8d139619e7</sys_scope>
+        <sys_security_acl display_value="x_wopa_inbound_act_u_inbound_mapping">359e1fe7dbf2cad0e3986d8d139619d6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3d9e1fe7dbf2cad0e3986d8d139619d9</sys_update_name>
+        <sys_updated_by>avinibesh.Dey</sys_updated_by>
+        <sys_updated_on>2024-06-21 10:31:35</sys_updated_on>
+        <sys_user_role display_value="x_wopa_inbound_act.inbound_field_mapping_user" name="x_wopa_inbound_act.inbound_field_mapping_user">659ed3e7dbf2cad0e3986d8d13961972</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

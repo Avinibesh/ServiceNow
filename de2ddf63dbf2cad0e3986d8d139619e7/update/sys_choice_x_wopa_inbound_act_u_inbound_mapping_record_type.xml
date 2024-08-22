@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="record_type" table="x_wopa_inbound_act_u_inbound_mapping" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>record_type</element>
+            <name>x_wopa_inbound_act_u_inbound_mapping</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 10:49:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e37f3a6cdb430614e3986d8d13961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>record_type</sys_name>
+            <sys_package display_value="Inbound Actions" source="x_wopa_inbound_act">de2ddf63dbf2cad0e3986d8d139619e7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Inbound Actions">de2ddf63dbf2cad0e3986d8d139619e7</sys_scope>
+            <sys_update_name>sys_choice_x_wopa_inbound_act_u_inbound_mapping_record_type</sys_update_name>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:49:39</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>record_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Interaction</label>
+            <language>en</language>
+            <name>x_wopa_inbound_act_u_inbound_mapping</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 10:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5e6fb66cdb430614e3986d8d139619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:49:39</sys_updated_on>
+            <value>interaction</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>record_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incident</label>
+            <language>en</language>
+            <name>x_wopa_inbound_act_u_inbound_mapping</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>avinibesh.Dey</sys_created_by>
+            <sys_created_on>2024-06-24 10:50:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>228f326cdb430614e3986d8d13961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>avinibesh.Dey</sys_updated_by>
+            <sys_updated_on>2024-06-24 10:50:08</sys_updated_on>
+            <value>incident</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

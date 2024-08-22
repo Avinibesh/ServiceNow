@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Inbound Field Mapping">699e1fe7dbf2cad0e3986d8d1396194f</application>
+        <filter/>
+        <name>Inbound Field Mappings</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_wopa_inbound_act.inbound_field_mapping_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>avinibesh.Dey</sys_created_by>
+        <sys_created_on>2024-06-21 10:31:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>e19e1fe7dbf2cad0e3986d8d13961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inbound Field Mappings</sys_name>
+        <sys_package display_value="Inbound Actions" source="x_wopa_inbound_act">de2ddf63dbf2cad0e3986d8d139619e7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Inbound Actions">de2ddf63dbf2cad0e3986d8d139619e7</sys_scope>
+        <sys_update_name>sys_ui_module_e19e1fe7dbf2cad0e3986d8d13961978</sys_update_name>
+        <sys_updated_by>avinibesh.Dey</sys_updated_by>
+        <sys_updated_on>2024-06-21 10:31:34</sys_updated_on>
+        <table>x_wopa_inbound_act_u_inbound_mapping</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
