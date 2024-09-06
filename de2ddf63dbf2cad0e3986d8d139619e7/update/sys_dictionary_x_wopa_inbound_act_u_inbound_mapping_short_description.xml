@@ -4,12 +4,12 @@
         <array>false</array>
         <attributes/>
         <audit>false</audit>
-        <calculation>(function calculatedFieldValue(current) {
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
 
 	// Add your code here
 	return '';  // return the calculated value
 
-})(current);</calculation>
+})(current);]]></calculation>
         <choice/>
         <choice_field/>
         <choice_table/>
@@ -52,12 +52,9 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>avinibesh.Dey</sys_created_by>
         <sys_created_on>2024-06-24 08:35:55</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>d2c06264db8fc214e3986d8d13961958</sys_id>
         <sys_name>Short Description</sys_name>
         <sys_package display_value="Inbound Actions" source="x_wopa_inbound_act">de2ddf63dbf2cad0e3986d8d139619e7</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Inbound Actions">de2ddf63dbf2cad0e3986d8d139619e7</sys_scope>
         <sys_update_name>sys_dictionary_x_wopa_inbound_act_u_inbound_mapping_short_description</sys_update_name>
         <sys_updated_by>avinibesh.Dey</sys_updated_by>

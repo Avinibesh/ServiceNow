@@ -11,15 +11,14 @@
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>avinibesh.Dey</sys_created_by>
         <sys_created_on>2024-06-21 10:31:34</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>e19e1fe7dbf2cad0e3986d8d13961947</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Inbound Field Mapping</sys_name>
         <sys_overrides/>
         <sys_package display_value="Inbound Actions" source="x_wopa_inbound_act">de2ddf63dbf2cad0e3986d8d139619e7</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Inbound Actions">de2ddf63dbf2cad0e3986d8d139619e7</sys_scope>
         <sys_update_name>sys_app_application_e19e1fe7dbf2cad0e3986d8d13961947</sys_update_name>
         <sys_updated_by>avinibesh.Dey</sys_updated_by>

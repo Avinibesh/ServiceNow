@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>true</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
         <ide_created>DS</ide_created>
@@ -16,6 +16,7 @@
         <logo/>
         <menu/>
         <name>Inbound Actions</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -42,4 +43,5 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=de2ddf63dbf2cad0e3986d8d139619e7"/>
 </record_update>

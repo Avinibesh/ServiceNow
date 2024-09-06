@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="818d5f27dbf2cad0e3986d8d13961970" label="Inbound Field Mapping" max_length="40" name="x_wopa_inbound_act_u_inbound_mapping" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="From" mandatory="true" max_length="100" name="from" type="email"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Assignment group" mandatory="true" max_length="32" name="assignment_group" reference="sys_user_group" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Subject" mandatory="true" max_length="160" name="subject" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Service Offering" max_length="32" name="service_offering" reference="service_offering" reference_qual="javascript:'parent='+current.service;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="service" max_length="32" name="service" reference="cmdb_ci_service" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="To" max_length="100" name="to" type="email"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="incident" label="Record Type" mandatory="true" max_length="40" name="record_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Incident" sequence="20" value="incident"/>
+                <element inactive_on_update="false" label="Interaction" sequence="10" value="interaction"/>
+            </choice>
+        </element>
+        <element label="Map Body to field" max_length="6000" name="map_body_to_field" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Configuration Item" max_length="32" name="configuration_item" reference="cmdb_ci" reference_qual="operational_status=1^EQ" reference_qual_condition="operational_status=1^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="urgency" choice_table="task" label="Urgency" max_length="40" name="urgency" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="impact" choice_table="task" label="Impact" max_length="32" name="impact" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Assigned To" max_length="32" name="assigned_to" reference="sys_user_grmember" reference_qual="javascript: 'group=' +current.assignment_group;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Short Description" mandatory="true" max_length="100" name="short_description" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index3">
+            <element name="configuration_item"/>
+        </index>
+        <index name="index4">
+            <element name="service"/>
+        </index>
+        <index name="index5">
+            <element name="service_offering"/>
+        </index>
+    </element>
+</database>
